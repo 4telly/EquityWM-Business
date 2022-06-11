@@ -1,5 +1,5 @@
 
-![Logo](https://cdn.discordapp.com/attachments/947805039278313485/985164354494275624/Neues_Projekt_1.png) [![wakatime](https://wakatime.com/badge/user/a16ca2b8-aa8e-4c6f-9b83-5896e3aa80e7/project/3501d9fa-5abf-463c-9a05-6f46949b785e.svg)]()
+![Logo](https://cdn.discordapp.com/attachments/947805039278313485/985164354494275624/Neues_Projekt_1.png) [![Total development time](https://wakatime.com/badge/user/a16ca2b8-aa8e-4c6f-9b83-5896e3aa80e7/project/3501d9fa-5abf-463c-9a05-6f46949b785e.svg)]()
 
 Equity Wallet Miner (Business) - Advance wallet miner with more functions
 ## Installation
