@@ -27,9 +27,10 @@ Download latest release: [Official github download](https://github.com/4telly/Eq
   EWM.dll - use our dll to create own wallet miners! 0.2ms
 ```
 
-| Parameter | Type     | Note!                      |
-| :-------- | :------- | :------------------------- |
-| `       ` | `      ` | **Required**. Your API key |
+| Method              | args                        | 
+| :------------------ | :-------------------------- |
+| `Equity.Generate  ` | `   privatekey / publickey` |
+| `Equity.check     ` | `                        `  |
 
 
 It's only in planning so it's not secure that it really release!
